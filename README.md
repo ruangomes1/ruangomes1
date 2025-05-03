@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá :smile:
+<br/>
+<br/>
+Eu sou Ruan Gomes, sou um desenvolvedor Front End e atualmente estou aprendendo e criando projetos com:
+<br/>
+<br/>
+<br/>
 
-<!--
-**ruangomes1/ruangomes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-HTML"/>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Logo-CSS"/>
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-JavaScript"/>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Conecte-se comigo:
+<br>
+
+<p>
+<a href="https://www.linkedin.com/in/ruan-alves-gomes-2733a221b/">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br>
+<br>
+<br>
+
+[![Ruan's github stats](https://github-readme-stats.vercel.app/api?username=ruangomes1&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangomes1&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
