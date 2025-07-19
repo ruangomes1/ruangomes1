@@ -15,10 +15,22 @@ Sou um desenvolvedor **Front-End** em constante evolução. Estou sempre aprende
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify" />
+  <img src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify&logoColor=00C7B7" />
   <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" />
+  <img src="https://img.shields.io/badge/-n8n-black?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white" />
+  
+
+ 
+
+
+
+
+
 </p>
 <br>
 
