@@ -40,17 +40,18 @@ Sou um desenvolvedor **Front-End** em constante evolução. Estou sempre aprende
   <a href="https://www.linkedin.com/in/ruan-alves-gomes/">
     <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
   </a>
+ 
+<a href="mailto:ruanalvesgomes26@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail" />
+</a>
 
-<br>
-<br>
+<br><br>
 
 ## ⭐ Alguns números do GitHub
-<br>
-<br>
+
+<br><br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruangomes1&show_icons=true&theme=merko&line_height=27&hide=contribs" alt="Estatísticas GitHub de Ruan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruangomes1&theme=merko" alt="Linguagens mais usadas de Ruan" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ruangomes1&show_icons=true&theme=dark&hide=contribs&cache_seconds=1800" alt="Estatísticas GitHub de Ruan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruangomes1&theme=dark&cache_seconds=1800" alt="Linguagens mais usadas de Ruan" />
 </p>
-
-
